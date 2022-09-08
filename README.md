@@ -1,6 +1,6 @@
 👋 Hi, I'm Asım 
 
-🌱 I’m currently learning React.
+🌱 I’m currently learning Django.
 
 📫 How to reach me: asimboga@gmail.com
 
